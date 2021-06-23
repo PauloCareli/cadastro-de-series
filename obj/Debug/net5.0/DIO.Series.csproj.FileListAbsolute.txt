@@ -1,0 +1,5 @@
+E:\PH SSD\Cursos\Bootacamp Dio Fullstack\[PROJETO] Criando um app simples de cadastro de séries em .net\Projeto\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+E:\PH SSD\Cursos\Bootacamp Dio Fullstack\[PROJETO] Criando um app simples de cadastro de séries em .net\Projeto\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+E:\PH SSD\Cursos\Bootacamp Dio Fullstack\[PROJETO] Criando um app simples de cadastro de séries em .net\Projeto\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+E:\PH SSD\Cursos\Bootacamp Dio Fullstack\[PROJETO] Criando um app simples de cadastro de séries em .net\Projeto\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+E:\PH SSD\Cursos\Bootacamp Dio Fullstack\[PROJETO] Criando um app simples de cadastro de séries em .net\Projeto\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
